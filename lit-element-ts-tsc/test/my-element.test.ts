@@ -1,7 +1,6 @@
 import { html, fixture, expect } from '@open-wc/testing';
 
 import { MyElement } from '../src/MyElement';
-import '../my-element';
 
 describe('MyElement', () => {
   it('has a default title "Hey there" and counter 5', async () => {

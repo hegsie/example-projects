@@ -25,3 +25,4 @@ tsconfig.tsbuildinfo
 /*/tsc-out
 
 /*/screenshots
+lit-element-ts-tsc/.idea/
